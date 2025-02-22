@@ -1,5 +1,6 @@
 # Guitar Tuner Purely Based on HTML5 + JS
 
+
 ## Overview
 This project provides a simple guitar tuner application built purely using HTML5 and JavaScript. It allows users to select a guitar string, then automatically detects the frequency of the input audio signal from the microphone and indicates whether the selected string is in tune.
 
@@ -45,3 +46,6 @@ Since this project is purely based on HTML5 and JavaScript, there is no installa
 
 ## Note
 Ensure you have a functioning microphone connected to your device for accurate frequency detection. Due to differences in hardware and environment, actual performance may vary. 
+
+## Reference
+- core algorithm to get the frequency  [Rhythm](https://github.com/akhileshdevrari/Rhythm)
