@@ -1,7 +1,11 @@
 # Guitar Tuner Purely Based on HTML5 + JS
 
+## 预览  
 
-## Overview
+[点击此处访问](https://w1412x.github.io/Guitar-Tuner-Based-On-JS/)
+
+## Overview  
+[click here to visit](https://w1412x.github.io/Guitar-Tuner-Based-On-JS/)
 This project provides a simple guitar tuner application built purely using HTML5 and JavaScript. It allows users to select a guitar string, then automatically detects the frequency of the input audio signal from the microphone and indicates whether the selected string is in tune.
 
 ![](./img/pre.png)  ![](./img/example.png)
